@@ -15,6 +15,7 @@ function Home() {
                     <Projects />
                 </Col>
             </Row>
+            <Row></Row>
         </Container>
     );
 }

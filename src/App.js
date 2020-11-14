@@ -4,7 +4,7 @@ import { Container, Navbar, Nav, Row } from 'react-bootstrap';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 
 import Home from './HomePage/Home';
-
+import Resume from './Resume'
 
 class App extends Component {
   
@@ -35,6 +35,8 @@ class App extends Component {
         <Container className='main_container' fluid={true}>
           <Route path='/' exact render={() =>
             <Home />} />
+          <Route path='/resume' exact render={() =>
+            <Resume />} />
           <Container className='bottom' >
             <Row>
               <br />

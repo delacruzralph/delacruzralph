@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 import my_photo from './assets/me_crop.jpg';
 
 function HeroComponent() {
-    const greeting = 'Hi I\'m Ralph!';
+    const greeting = 'Hi, I\'m Ralph!';
     const sub_greeting = 'Check out some of my projects down below.'
 
     return (
