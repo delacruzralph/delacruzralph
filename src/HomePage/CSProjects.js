@@ -3,6 +3,7 @@ import ProjectGallery from './ProjectGallery';
 
 import supreme from './assets/supreme.png'
 import website from './assets/website.png'
+import apple_spotify from './assets/apple_spotify.png'
 
 function CSProjects() {
     const csprojects = {
@@ -16,11 +17,6 @@ function CSProjects() {
         imgSrc: website
       },
       project2: {
-        title: 'CS Project 2',
-        description: 'Blahblahblah',
-        link: ''
-      },
-      project3: {
         title: 'Supreme Bot (not for actual use)',
         description: 'At one of my co-ops, Selenium was heavily used in the QA/Testing context. From my experience using webdrivers, I thought about\
                       the possibility of using Selenium as a bot that can fill out forms quickly. This is especially beneficial when new, exclusive releases\
@@ -28,6 +24,13 @@ function CSProjects() {
                       This was programmed in Python.',
         link: 'https://www.supremenewyork.com/shop/all',
         imgSrc: supreme
+      },
+      project3: {
+        title: 'Apple Music - Spotify Playlist Converter [WIP]',
+        description: 'Using the available APIs for Apple Music and Spotify, my goal for this project is to create an app or plugin\
+        that will provide the necessary data from playlists (songs, artists, etc).',
+        link: 'https://developer.apple.com/documentation/applemusicapi/',
+        imgSrc: apple_spotify
       }
     }
 
