@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c0c0ed26.chunk.css",
-    "main.js": "/static/js/main.7845ee7e.chunk.js",
-    "main.js.map": "/static/js/main.7845ee7e.chunk.js.map",
+    "main.js": "/static/js/main.62c2591a.chunk.js",
+    "main.js.map": "/static/js/main.62c2591a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.23df8ce6.js",
     "runtime-main.js.map": "/static/js/runtime-main.23df8ce6.js.map",
     "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
@@ -15,12 +15,13 @@
     "static/css/main.c0c0ed26.chunk.css.map": "/static/css/main.c0c0ed26.chunk.css.map",
     "static/js/2.2017953e.chunk.js.LICENSE.txt": "/static/js/2.2017953e.chunk.js.LICENSE.txt",
     "static/media/TextU.d8ad7c50.pdf": "/static/media/TextU.d8ad7c50.pdf",
+    "static/media/apple_spotify.d2e98727.png": "/static/media/apple_spotify.d2e98727.png",
     "static/media/ds_proj.a07a9abb.png": "/static/media/ds_proj.a07a9abb.png",
     "static/media/me_crop.9ccff0b4.jpg": "/static/media/me_crop.9ccff0b4.jpg",
     "static/media/nomads_sp20.7918cb81.png": "/static/media/nomads_sp20.7918cb81.png",
     "static/media/nomads_website.1aa25642.png": "/static/media/nomads_website.1aa25642.png",
     "static/media/pokewulf.08999609.png": "/static/media/pokewulf.08999609.png",
-    "static/media/resume_pic.29020bf3.png": "/static/media/resume_pic.29020bf3.png",
+    "static/media/resume_pic.e4d84088.png": "/static/media/resume_pic.e4d84088.png",
     "static/media/sari_fa.bda0d5d2.pdf": "/static/media/sari_fa.bda0d5d2.pdf",
     "static/media/sari_fa_pic.e4951b2b.png": "/static/media/sari_fa_pic.e4951b2b.png",
     "static/media/sari_sp.db36dbce.pdf": "/static/media/sari_sp.db36dbce.pdf",
@@ -37,6 +38,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.2017953e.chunk.js",
     "static/css/main.c0c0ed26.chunk.css",
-    "static/js/main.7845ee7e.chunk.js"
+    "static/js/main.62c2591a.chunk.js"
   ]
 }
