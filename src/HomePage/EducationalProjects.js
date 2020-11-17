@@ -28,7 +28,9 @@ function EducationalProjects() {
         },
         project3: {
             title: 'Typeface Systems',
-            description: 'Blahblahblah',
+            description: 'This project was the culmination of a semester of Typography. We were given a series of titles and descriptions and\
+            had to lay them out on an 8x8 page. I explored different ways to play around with text, imagery, and color, and overall I am quite\
+            satisfied with the end product. This was made using InDesign mostly.',
             link: type_system,
             imgSrc: type_pic
         }
