@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ralphlewisdelacruz@gmail.com**
 
-- 📄 Know about my experiences [https://www.ralphdelacruz.com/ralph-delacruz-resume.pdf](https://www.ralphdelacruz.com/ralph-delacruz-resume.pdf)
+- 📄 Know about my experiences [Resume](https://www.ralphdelacruz.com/ralph-delacruz-resume.pdf)
 
 - ⚡ Fun fact **I have a cat named Princess**
 
